@@ -1,2 +1,2 @@
 # wjcutrone.github.io
-Information about me for whomever is interested.
+Click the link to learn more about me: https://wjcutrone.github.io/
